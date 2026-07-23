@@ -1,4 +1,3 @@
-
 ---
 title: My Portfolio
 layout: default
